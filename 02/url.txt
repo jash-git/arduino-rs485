@@ -1,0 +1,4 @@
+01.https://arduino-info.wikispaces.com/SoftwareSerialRS485Example
+02.http://yourduino.com/sunshop//index.php?l=product_detail&p=323
+03.https://arduino-info.wikispaces.com/RS485-Modules
+04.http://www.gammon.com.au/forum/?id=11428
